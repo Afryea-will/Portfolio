@@ -1,0 +1,45 @@
+h1 { 
+    color:black; 
+
+}
+
+.afryeawilliams {
+      font-weight: bold;
+      color : black;
+}
+body {
+    
+    font-family: 'Noto Serif', serif;
+    background-color:rgb(182, 167, 167)
+
+}
+.profileepic {
+height: 500px; 
+width: 600px;
+display: block; 
+margin: auto; 
+padding: auto; 
+border-radius: 50%;
+
+}
+.img-fluid1 {
+height: 60px; 
+width: 120px;
+
+
+
+}
+
+.img-fluid {
+    height: 50px; 
+    width: 50px;
+    margin-right: 25px;
+}   
+    
+
+.container-fluid {
+    text-align:center;
+    margin-bottom: 30px;
+    }
+
+
